@@ -1,7 +1,7 @@
 {
     "name": "Twitch special bonus claimer",
     "version": "1.0.0",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "description": "Claims the special bonus on Twich automatically",
     "content_scripts": [
         {
